@@ -32,6 +32,7 @@ The app can be accessded easily using the 3 simple steps shown in the image.
 
 ## 4. Access the deployed App 
 The deployed app is accessible at https://fitpalapp.shinyapps.io/home/
+You can also view our recorded presentation at https://youtu.be/_GdWHs-xsBg
 
 ## 5. Dependencies:
 ```R
