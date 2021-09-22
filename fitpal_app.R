@@ -1,3 +1,11 @@
+################################################################################
+Purdue University - Krannert School of Management
+MS BAIM Program - Summer 2021
+MGMT-59000-B08 - Using R for Analytics - Final Project
+@authors: Piper A. Doyle; Mayank Jha; Akshit Jain;
+Harshul Garg; Alejandro Brillembourg Cuenca
+################################################################################
+
 ######################### R Libraries Required #################################
 ################################################################################
 
