@@ -2,7 +2,7 @@
 ## Purdue University Krannert School of Management
 ## MGMT 59000-B08: Using R For Analytics Final Project
 
-Contained herein is our final project, the FitPal app, for the Using R for Analytics summer 2021 course.
+Contained herein is our final project for the Summer 2021 Using R for Analytics course, the FitPal app.
 
 ## Outline
 - Part 1 - Overview 
