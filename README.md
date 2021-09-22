@@ -23,6 +23,8 @@ Our app requires the user to upload their fitness device data (Fitbit, Apple Wat
 
 Given the nature of Shiny in the R programming language, the app is divided into a user interface (UI) and the server code. For the application where data is uploaded and manipulated, the UI and Server code are written using R's shiny. For the home page user interface, the UI code is written in HTML, CSS, and Javascript while the server code is written in R. Finally, the app is deployed over R shiny server.
 
+Logos, charts, and video were created/edited using Canva and the presentation was created using MS PowerPoint.
+
 ## 3. Steps to Use App
 ![FitPal_FlowChart](https://github.com/ajbrillembourg/fitpal-fitness-tracker/blob/1c013b8ba690fb5afe0c7be8964a2a47dd9d37b9/FitPal_FlowChart.png)
 
